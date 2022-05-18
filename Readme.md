@@ -10,11 +10,9 @@
 #### Certifications  :medal_sports:
 ![alt text](images/badges.png)
 
- 
 #### Records  :1st_place_medal:
 ![alt text](images/abr.jpg)
 ![alt text](images/ibr.jpg)
-
 
 
 #### Other Links :link:
