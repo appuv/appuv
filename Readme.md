@@ -16,6 +16,7 @@
 
 
 #### Other Links :link:
+- [Website](https://www.masterappu.com)
 - [Linkedin](https://www.linkedin.com/in/appuv)
 - [Medium](https://medium.com/@masterappu)
 - [Youtube](https://www.youtube.com/channel/UCSMeGTVvGIFpBP9BhT_89Aw)
