@@ -17,4 +17,4 @@
 
 #### Links :link:
 
-[Credly](https://www.credly.com/users/appuv/badges) | [Accredible](https://www.credential.net/profile/appuv329546/wallet) | [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/aa816972-ce94-4ab8-bedd-18b7f7f3ac15) | [Medium](https://medium.com/@masterappu) | [HackerRank](https://www.hackerrank.com/masterappu) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/masterappu/)|[The Linux Foundation](https://openprofile.dev/profile/masterappu) | [Coursera](https://www.coursera.org/user/cc432cfa7a98f1a65243633e371d1c20)
+[Credly](https://www.credly.com/users/appuv/badges) | [Accredible](https://www.credential.net/profile/appuv329546/wallet) | [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/aa816972-ce94-4ab8-bedd-18b7f7f3ac15) | [Medium](https://medium.com/@masterappu) | [HackerRank](https://www.hackerrank.com/masterappu) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/masterappu/) | [The Linux Foundation](https://openprofile.dev/profile/masterappu) | [Coursera](https://www.coursera.org/user/cc432cfa7a98f1a65243633e371d1c20)
