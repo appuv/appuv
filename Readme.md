@@ -15,6 +15,14 @@
 ![alt text](images/badges.png)
 
 
-#### Links :link:
+#### Links :octocat:
 
-[Credly](https://www.credly.com/users/appuv/badges) | [Accredible](https://www.credential.net/profile/appuv329546/wallet) | [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/aa816972-ce94-4ab8-bedd-18b7f7f3ac15) | [Medium](https://medium.com/@masterappu) | [HackerRank](https://www.hackerrank.com/masterappu) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/masterappu/) | [Google Dev](https://g.dev/masterappu) | [freeCodeCamp](https://www.freecodecamp.org/masterappu) | [The Linux Foundation](https://openprofile.dev/profile/masterappu) | [Coursera](https://www.coursera.org/user/cc432cfa7a98f1a65243633e371d1c20) | [Trailhead](https://www.salesforce.com/trailblazer/masterappu)
+[Portfolio](https://masterappu.com/) | [LinkedIn](https://www.linkedin.com/in/appuv) | [Medium](https://medium.com/@masterappu) | [Credly](https://www.credly.com/users/appuv/badges) | [Accredible](https://www.credential.net/profile/appuv329546/wallet) | [Google Cloud Skill Boost](https://www.cloudskillsboost.google/public_profiles/aa816972-ce94-4ab8-bedd-18b7f7f3ac15) | [HackerRank](https://www.hackerrank.com/masterappu) | [Youtube](https://www.youtube.com/@techtalksbyappu) | [Google dev](https://g.dev/masterappu) | [Microsoft Learn](https://learn.microsoft.com/en-us/users/masterappu/) | [freeCodeCamp](https://www.freecodecamp.org/masterappu) | [The Linux Foundation](https://openprofile.dev/profile/masterappu) |  [GraphAcademy](https://graphacademy.neo4j.com/u/267affd9-3ce7-4450-8b1e-610e6092e676/) | [Snowflake](https://community.snowflake.com/s/profile/005VI0000089pd1) | [Salesforce](https://www.salesforce.com/trailblazer/masterappu) | [Coursera](https://www.coursera.org/user/cc432cfa7a98f1a65243633e371d1c20) | [Udemy](https://www.udemy.com/user/appu-v/)
+
+
+
+#### Contact 🤙
+
+<a href="https://t.me/masterappu">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="50" height="50">
+</a>
