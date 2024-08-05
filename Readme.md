@@ -5,7 +5,7 @@
 - Interested in solving challenges :hourglass_flowing_sand:
 - Passionate Adventure Traveler :compass: :airplane: :world_map:
 - Microsoft Certified Trainer :medal_military:
-- Certified in Hadoop, Spark, Kafka, AWS and Azure :trophy:
+- Certified in Hadoop, Spark, Kafka, Kubernetes, AWS and Azure :trophy:
 - [India Book of Records](https://indiabookofrecords.in/maximum-microsoft-certification-examinations-qualified-in-least-time/) and [Asia Book of Records Grand Master holder](https://www.asiabookofrecords.com/grand-master-appu-v/) :1st_place_medal:
 
 
