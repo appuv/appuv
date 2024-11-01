@@ -6,8 +6,8 @@
 - Passionate Adventure Traveler :compass: :airplane: :world_map:
 - Microsoft Certified Trainer :medal_military:
 - Certified in Hadoop, Spark, Kafka, Kubernetes, AWS and Azure :trophy:
-- [India Book of Records](https://indiabookofrecords.in/maximum-microsoft-certification-examinations-qualified-in-least-time/) and [Asia Book of Records Grand Master holder](https://www.asiabookofrecords.com/grand-master-appu-v/) :1st_place_medal:
-
+- [India Book of Records](https://indiabookofrecords.in/maximum-microsoft-certification-examinations-qualified-in-least-time/) and [Asia Book of Records Grand Master](https://www.asiabookofrecords.com/grand-master-appu-v/) :1st_place_medal:
+- [Credly Top Legacy Badge Earner](https://www.credly.com/badges/817df708-3718-49c0-ab78-b0504da012dc) and [Credly Top Badge Earner of 2024](https://www.credly.com/badges/9d96df70-79c5-4c5e-9fdd-99ce7297446d) 
 
 
 
