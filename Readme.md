@@ -1,6 +1,6 @@
 ### Hey there!  :wave:
 ![Views](https://komarev.com/ghpvc/?username=appuv)
-- 9+ years into Data Engineering, Cloud and Big Data :computer:
+- 10+ years into Data Engineering, Cloud and Big Data :computer:
 - From Kerala, India :india:
 - Interested in solving challenges :hourglass_flowing_sand:
 - Passionate Adventure Traveler :compass: :airplane: :world_map:
