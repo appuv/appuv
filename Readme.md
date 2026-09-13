@@ -27,5 +27,5 @@
 #### Contact 🤙
 
 <a href="https://t.me/masterappu">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="40" height="40">
+    <img src="images/tele.png" width="40" height="40">
 </a>
